@@ -2,3 +2,4 @@ pydub
 numpy
 librosa
 scipy
+pyinstaller
